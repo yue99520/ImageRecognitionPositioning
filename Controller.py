@@ -1,5 +1,5 @@
 import cv2 as cv
-from detector_src.yolo_detection_adapter.YoloAdapter import YoloAdapter
+from yolo_detector_tool.yolo_detection_adapter.YoloAdapter import YoloAdapter
 
 CONFIGURATION_PATH = '../cfg/yolov3.cfg'
 WEIGHT_PATH = '../data/yolov3.weights'

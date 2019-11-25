@@ -1,4 +1,4 @@
-from detector_src.yolo_detection_adapter import ResultObject
+from yolo_detector_tool.yolo_detection_adapter import ResultObject
 
 
 class DetectionResult:

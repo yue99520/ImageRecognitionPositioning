@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
-from detector_src.yolo_detection_adapter import ResultObject
-from detector_src.yolo_detection_adapter import DetectionResult
+from yolo_detector_tool.yolo_detection_adapter import ResultObject
+from yolo_detector_tool.yolo_detection_adapter import DetectionResult
 
 
 class YoloAdapter:
